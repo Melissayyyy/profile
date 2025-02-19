@@ -2,10 +2,11 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex-grow: 1;">
-    **Location:** Shanghai, China  
-    **Email:** [22307130511@m.fudan.edu.cn](mailto:22307130511@m.fudan.edu.cn)  
+    Location: Shanghai, China  
+    Email: 22307130511@m.fudan.edu.cn
+    My research interests include: Natural Language Processing, Large Language Models
   </div>
-  <img src="photo.jpg" alt="Personal Image" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" />
+  <img src="photo.jpg" alt="Personal Image" style="border-radius: 50%; width: 240px; height: 300px; object-fit: cover;" />
 </div>
 
 ---
