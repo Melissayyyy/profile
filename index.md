@@ -13,7 +13,6 @@ Major: Computer Science and Technology | Sep 2022 – Jun 2026
 - Cumulative GPA: 3.67/4.0  
 - Awards: Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship,
           Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship  
-
 <br>
 
 ### University of California, Davis, CA, USA  
@@ -66,4 +65,9 @@ Shanghai, China | Dec 2024 – Present
 
 ### Class President, Computer Science Undergraduates Class of 2022, Fudan University  
 Sep 2023 – Present  
-- Managed a class of 120 students, organizing internal and external activities (spring outings, choir competitions, military tr
+- Assisted the counselor in managing a class of 120 students, organizing and coordinating various internal and external activities, including spring outings, choir competitions, and the production of military training videos.  
+- Ensured efficient and orderly class operations, enhancing teacher-student connections and class cohesion.
+
+### Volunteer Services  
+- FISS (Fudan University Summer International Program) Buddy, Jul 2024 – Aug 2024: Preparation of various tasks to assist summer exchange students  
+- Ceramic Art Association "Sunshine Home" Practice Activity, Mar 2023 – May 2023: Guiding individuals with intellectual disabilities in making ceramics  
