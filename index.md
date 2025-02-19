@@ -1,10 +1,9 @@
-# CHENYUAN YANG  
-
 <div style="display: flex; align-items: center;">
+  <h1 CHENYUAN YANG />
   <div style="flex-grow: 1;">
-    Location: Shanghai, China  
-    Email: 22307130511@m.fudan.edu.cn
-    My research interests include: Natural Language Processing, Large Language Models
+    Location: Shanghai, China <br>
+    Email: 22307130511@m.fudan.edu.cn <br>
+    My research interests include: Natural Language Processing, Large Language Models <br>
   </div>
   <img src="photo.jpg" alt="Personal Image" style="border-radius: 50%; width: 240px; height: 300px; object-fit: cover;" />
 </div>
