@@ -14,6 +14,7 @@
 
 ---
 
+<br>
 ## EDUCATION  
 **Fudan University**, Shanghai, China  
 **Major:** Computer Science and Technology | **Sep 2022 – Jun 2026**  
@@ -28,6 +29,7 @@
 
 ---
 
+<br>
 ## COMPUTER SKILLS  
 - **Programming Languages:** C / C++ / Python / R / Bash  
 - **Front-end Frameworks:** Vue (HTML, JavaScript/TypeScript, CSS), React  
@@ -39,6 +41,7 @@
 
 ---
 
+<br>
 ## PROJECTS AND LABORATORY EXPERIENCE  
 
 ### **Fudan University Natural Language Processing Group**, Shanghai, China  
@@ -63,6 +66,7 @@
 
 ---
 
+<br>
 ## INTERNSHIP  
 
 ### **Software Testing & Development Intern, Transwarp**, Shanghai, China  
@@ -75,6 +79,7 @@
 
 ---
 
+<br>
 ## LEADERSHIP EXPERIENCE AND VOLUNTEER SERVICES  
 
 ### **Class President**, Computer Science Undergraduates Class of 2022, Fudan University  
