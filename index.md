@@ -1,9 +1,7 @@
-
-
+<img src="photo.jpg" align="right" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
 Location: Shanghai, China  
 Email: 22307130511@m.fudan.edu.cn  
-My research interests include: Natural Language Processing, Large Language Models  
-<img src="photo.jpg" align="right" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
+My research interests: Natural Language Processing, Large Language Models  
 
 
 <br>
