@@ -5,7 +5,7 @@
 Location: Shanghai, China  
 Email: 22307130511@m.fudan.edu.cn  
 My research interests: Natural Language Processing, Large Language Models  
-[\[CV\]](cv.pdf)
+[[CV](cv.pdf)]
 
 <br>
 ## EDUCATION  
