@@ -1,5 +1,4 @@
-
-# CHENYUAN YANG  
+<h1>CHENYUAN YANG</h1>
 
 <img src="photo.jpg" align="right" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
 Location: Shanghai, China  
