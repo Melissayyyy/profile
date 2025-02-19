@@ -1,23 +1,13 @@
-<div style="display: flex; flex-direction: row; justify-content;">
-  <div style="flex-grow: 1;">
-    <h1> CHENYUAN YANG </h1>
-    <span>
-    Location: Shanghai, China <br>
-    Email: 22307130511@m.fudan.edu.cn <br>
-    My research interests include: Natural Language Processing, Large Language Models <br>
-      </span>
-  </div>
-  <img src="photo.jpg" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
-</div>
+
 
 Location: Shanghai, China  
 Email: 22307130511@m.fudan.edu.cn  
 My research interests include: Natural Language Processing, Large Language Models  
-<img src="photo.jpg" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
+<img src="photo.jpg" align="right" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
 
 
 <br>
-## EDUCATION  
+# EDUCATION  
 **Fudan University**, Shanghai, China  
 Major: **Computer Science and Technology** | Sep 2022 – Jun 2026  
 - **Cumulative GPA:** 3.67/4.0  
@@ -30,22 +20,24 @@ Exchange Program, **University of California, Davis**, CA, USA | Sep 2024 – De
 <br>
 # PROJECTS AND LABORATORY EXPERIENCE  
 
-## **Fudan University Natural Language Processing Group**  
-***Undergraduate Intern***  
+## Fudan University Natural Language Processing Group  
+*Undergraduate Intern*  
 Shanghai, China | Apr 2024 – Present  
 - Conducted data preprocessing and cleansing for NLP model training and evaluation. Assisted in creating and evaluating datasets for supervised and unsupervised tasks (e.g., sentiment analysis, information extraction).  
 - Designed and implemented a safety alignment experiment using Python and PyTorch to evaluate fine-tuned models for safe and ethical responses.
 - Designed and implemented an automated evaluation method to assess whether model responses satisfy all specified constraints, with the aim of improving the model’s instruction-following ability.
 
-## **THINKDRIVE Autonomous Driving and Digital Twin System (Entrepreneurship Training Project)**  
-***Web Front-end Developer***  
+
+## THINKDRIVE Autonomous Driving and Digital Twin System (Entrepreneurship Training Project)  
+*Web Front-end Developer*  
 Shanghai, China |Apr 2024 – Present  
 - Developed the web interface for the digital twin system, designing intuitive and responsive UIs.  
 - Implemented front-end data processing logic to ensure seamless integration and presentation.  
 - Assisted in building a simulation training platform for autonomous driving AI model improvement.  
 
-## Win Excellence Award & Popularity Award in the**Shanghai Library Open Data Competition**  
-***Team Leader, Web Front-end Developer***  
+
+## Win Excellence Award & Popularity Award in the Shanghai Library Open Data Competition  
+*Team Leader, Web Front-end Developer*  
 Shanghai, China | Jun 2024 – Aug 2024  
 - Led the team to build the "Shanghai Showcase" website ([sharch.city](https://www.sharch.city)) to offer immersive tours of Shanghai's historic buildings.  
 - Designed and built an interactive website interface.  
