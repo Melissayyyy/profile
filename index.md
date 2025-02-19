@@ -11,6 +11,7 @@
 </div>
 
 <br>
+
 ---
 
 ## EDUCATION  
@@ -24,6 +25,7 @@
 - **Cumulative GPA:** 4.0/4.0  
 
 <br>
+
 ---
 
 ## COMPUTER SKILLS  
@@ -34,6 +36,7 @@
 - **Hardware Design:** Vivado (hardware logic design and simulation verification)  
 
 <br>
+
 ---
 
 ## PROJECTS AND LABORATORY EXPERIENCE  
@@ -57,6 +60,7 @@
 - Worked on data extraction from open databases and used RAG technology for customized database queries.  
 
 <br>
+
 ---
 
 ## INTERNSHIP  
@@ -68,6 +72,7 @@
 - Developed a web-based real-time dashboard to display testing metrics and reports, enabling data-driven decision-making.  
 
 <br>
+
 ---
 
 ## LEADERSHIP EXPERIENCE AND VOLUNTEER SERVICES  
