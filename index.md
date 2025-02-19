@@ -1,8 +1,12 @@
 # CHENYUAN YANG  
-**Location:** Shanghai, China  
-**Email:** [22307130511@m.fudan.edu.cn](mailto:22307130511@m.fudan.edu.cn)  
 
-![Personal Image](photo.jpg) <!-- Replace with the actual image path -->
+<div style="display: flex; align-items: center;">
+  <div style="flex-grow: 1;">
+    **Location:** Shanghai, China  
+    **Email:** [22307130511@m.fudan.edu.cn](mailto:22307130511@m.fudan.edu.cn)  
+  </div>
+  <img src="photo.jpg" alt="Personal Image" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" />
+</div>
 
 ---
 
@@ -63,13 +67,4 @@
 
 ### **Class President**, Computer Science Undergraduates Class of 2022, Fudan University  
 **Sep 2023 – Present**  
-- Managed a class of 120 students, organizing internal and external activities (spring outings, choir competitions, military training videos).  
-- Ensured smooth class operations, fostering stronger teacher-student connections and class cohesion.  
-
-### **Volunteer Services**  
-- **FISS Buddy** (Fudan University Summer International Program) | Jul 2024 – Aug 2024  
-  - Assisted with tasks for incoming summer exchange students.  
-- **Ceramic Art Association "Sunshine Home" Practice Activity** | Mar 2023 – May 2023  
-  - Guided individuals with intellectual disabilities in ceramic art-making activities.  
-
----
+- Managed a class of 120 students, organizing internal and external activities (spring outings, choir competitions, military tr
