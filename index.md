@@ -5,14 +5,19 @@ Shanghai | 22307130511@m.fudan.edu.cn
 **Fudan Universit**y, Shanghai, China | **Majoring in Computer Science and Technology** | Sep 2022 – Jun 2026
 - Cumulative GPA: 3.67/4.0
 - Third Prize for the 2023-2024 & 2022-2023 academic year Fudan University Outstanding Student Scholarship
+
 **Exchange in University of California**, Davis, Davis CA, US | Sep 2024 – Dec 2024
 •	Cumulative GPA: 4.0/4.0
 
 ## COMPUTER SKILLS
 Programming Languages: C / C++ / Python / R /Bash
+
 Front-end Frameworks: Vue(HTML, JavaScript/TypeScript, CSS), React
+
 Database: PostgreSQL
+
 Operating Systems: Project development based on Linux
+
 Hardware Design: Designing hardware logic in Vivado and conducting simulation verification
 
 ## PROJECTS AND LABORATORY EXPERIENCE
@@ -42,5 +47,5 @@ Class President of the Computer Science Undergraduates Class of 2022 | Sep 2023 
 - Assisted the counselor in managing a class of 120 students, organizing and coordinating various internal and external activities, including spring outings, choir competitions, and the production of military training videos.
 - Ensured efficient and orderly class operations, enhancing teacher-student connections and class cohesion.
 Volunteer Services:
-  - FISS (Fudan University Summer International Program) Buddy | Preparation of various tasks to assist summer exchange students | Jul 2024 – Aug 2024
-  - Ceramic Art Association "Sunshine Home" Practice Activity | Guiding individuals with intellectual disabilities in making ceramics | Mar 2023 – May 2023
+FISS (Fudan University Summer International Program) Buddy | Preparation of various tasks to assist summer exchange students | Jul 2024 – Aug 2024
+Ceramic Art Association "Sunshine Home" Practice Activity | Guiding individuals with intellectual disabilities in making ceramics | Mar 2023 – May 2023
