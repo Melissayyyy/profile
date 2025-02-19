@@ -6,13 +6,15 @@ My research interests: Natural Language Processing, Large Language Models
 
 <br>
 # EDUCATION  
-**Fudan University**, Shanghai, China  
-Major: **Computer Science and Technology** | Sep 2022 – Jun 2026  
-- **Cumulative GPA:** 3.67/4.0  
-- **Awards:** Third Prize for the 2023-2024 & 2022-2023 academic year Fudan University Outstanding Student Scholarship  
+## Fudan University, Shanghai, China  
+Major: Computer Science and Technology | Sep 2022 – Jun 2026  
+- Cumulative GPA: 3.67/4.0  
+- Awards: Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship,
+          Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship
 
-Exchange Program, **University of California, Davis**, CA, USA | Sep 2024 – Dec 2024  
-- **Cumulative GPA:** 4.0/4.0  
+## University of California, Davis, CA, USA  
+Exchange Program | Sep 2024 – Dec 2024  
+- Cumulative GPA: 4.0/4.0  
 
 
 <br>
@@ -22,9 +24,9 @@ Exchange Program, **University of California, Davis**, CA, USA | Sep 2024 – De
 *Undergraduate Intern*  
 Shanghai, China | Apr 2024 – Present  
 - Conducted data preprocessing and cleansing for NLP model training and evaluation. Assisted in creating and evaluating datasets for supervised and unsupervised tasks (e.g., sentiment analysis, information extraction).  
-- Designed and implemented a safety alignment experiment using Python and PyTorch to evaluate fine-tuned models for safe and ethical responses.
-- Designed and implemented an automated evaluation method to assess whether model responses satisfy all specified constraints, with the aim of improving the model’s instruction-following ability.
-
+- Designed and implemented a safety alignment experiment using Python and PyTorch to evaluate fine-tuned models for safe and ethical responses.  
+- Designed and implemented an automated evaluation method to assess whether model responses satisfy all specified constraints, with the aim of improving the model’s instruction-following ability.  
+<br>
 
 ## THINKDRIVE Autonomous Driving and Digital Twin System (Entrepreneurship Training Project)  
 *Web Front-end Developer*  
@@ -32,7 +34,7 @@ Shanghai, China |Apr 2024 – Present
 - Developed the web interface for the digital twin system, designing intuitive and responsive UIs.  
 - Implemented front-end data processing logic to ensure seamless integration and presentation.  
 - Assisted in building a simulation training platform for autonomous driving AI model improvement.  
-
+<br>
 
 ## Win Excellence Award & Popularity Award in the Shanghai Library Open Data Competition  
 *Team Leader, Web Front-end Developer*  
