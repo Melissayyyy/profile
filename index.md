@@ -12,9 +12,9 @@ My research interests: Natural Language Processing, Large Language Models
 ### Fudan University, Shanghai, China  
 Major: Computer Science and Technology | Sep 2022 – Jun 2026  
 - Cumulative GPA: 3.67/4.0  
-- Awards: Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship,
+- Awards: Third Prize for the 2023-2024 academic year Fudan University Outstanding Student Scholarship,  
           Third Prize for the 2022-2023 academic year Fudan University Outstanding Student Scholarship
-
+<br>
 ### University of California, Davis, CA, USA  
 Exchange Program | Sep 2024 – Dec 2024  
 - Cumulative GPA: 4.0/4.0  
