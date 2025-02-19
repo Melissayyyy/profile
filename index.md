@@ -47,5 +47,6 @@ Class President of the Computer Science Undergraduates Class of 2022 | Sep 2023 
 - Assisted the counselor in managing a class of 120 students, organizing and coordinating various internal and external activities, including spring outings, choir competitions, and the production of military training videos.
 - Ensured efficient and orderly class operations, enhancing teacher-student connections and class cohesion.
 Volunteer Services:
-FISS (Fudan University Summer International Program) Buddy | Preparation of various tasks to assist summer exchange students | Jul 2024 – Aug 2024
-Ceramic Art Association "Sunshine Home" Practice Activity | Guiding individuals with intellectual disabilities in making ceramics | Mar 2023 – May 2023
+  - FISS (Fudan University Summer International Program) Buddy | Preparation of various tasks to assist summer exchange students | Jul 2024 – Aug 2024
+  - Ceramic Art Association "Sunshine Home" Practice Activity | Guiding individuals with intellectual disabilities in making ceramics | Mar 2023 – May 2023
+
