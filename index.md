@@ -1,9 +1,11 @@
-<div style="display: flex; align-items: center;">
-  <h1 CHENYUAN YANG />
+<div style="display: flex; flex-direction: row; justify-content;">
   <div style="flex-grow: 1;">
+    <h1 CHENYUAN YANG />
+    <span>
     Location: Shanghai, China <br>
     Email: 22307130511@m.fudan.edu.cn <br>
     My research interests include: Natural Language Processing, Large Language Models <br>
+      </span>
   </div>
   <img src="photo.jpg" alt="Personal Image" style="border-radius: 50%; width: 240px; height: 300px; object-fit: cover;" />
 </div>
