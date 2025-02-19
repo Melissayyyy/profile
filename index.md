@@ -1,5 +1,6 @@
+# **CHENYUAN YANG**  
+
 <img src="photo.jpg" align="right" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
-# **CHENYUAN YANG** 
 Location: Shanghai, China  
 Email: 22307130511@m.fudan.edu.cn  
 My research interests: Natural Language Processing, Large Language Models  
