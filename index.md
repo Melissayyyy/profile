@@ -10,11 +10,10 @@
   <img src="photo.jpg" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
 </div>
 
-
-
-## EDUCATION  
+<br>
 ---
 
+## EDUCATION  
 **Fudan University**, Shanghai, China  
 **Major:** Computer Science and Technology | **Sep 2022 – Jun 2026**  
 - **Cumulative GPA:** 3.67/4.0  
@@ -24,20 +23,20 @@
 **Sep 2024 – Dec 2024**  
 - **Cumulative GPA:** 4.0/4.0  
 
-
-## COMPUTER SKILLS  
+<br>
 ---
 
+## COMPUTER SKILLS  
 - **Programming Languages:** C / C++ / Python / R / Bash  
 - **Front-end Frameworks:** Vue (HTML, JavaScript/TypeScript, CSS), React  
 - **Database:** PostgreSQL  
 - **Operating Systems:** Linux-based project development  
 - **Hardware Design:** Vivado (hardware logic design and simulation verification)  
 
-
+<br>
+---
 
 ## PROJECTS AND LABORATORY EXPERIENCE  
----
 
 ### **Fudan University Natural Language Processing Group**, Shanghai, China  
 **Undergraduate Intern** | Apr 2024 – Present  
@@ -57,9 +56,10 @@
 - Designed and built an interactive website interface.  
 - Worked on data extraction from open databases and used RAG technology for customized database queries.  
 
+<br>
+---
 
 ## INTERNSHIP  
----
 
 ### **Software Testing & Development Intern, Transwarp**, Shanghai, China  
 **Dec 2024 – Present**  
@@ -67,10 +67,10 @@
 - Analyzed test results, identified issues, and provided insights for optimization.  
 - Developed a web-based real-time dashboard to display testing metrics and reports, enabling data-driven decision-making.  
 
+<br>
 ---
 
-## LEADERSHIP EXPERIENCE AND VOLUNTEER SERVICES 
---- 
+## LEADERSHIP EXPERIENCE AND VOLUNTEER SERVICES  
 
 ### **Class President**, Computer Science Undergraduates Class of 2022, Fudan University  
 **Sep 2023 – Present**  
