@@ -2,12 +2,12 @@
 Shanghai | 22307130511@m.fudan.edu.cn
 
 ## EDUCATION
-**Fudan Universit**y, Shanghai, China | **Majoring in Computer Science and Technology** | Sep 2022 – Jun 2026
+**Fudan University**, Shanghai, China | **Majoring in Computer Science and Technology** | Sep 2022 – Jun 2026
 - Cumulative GPA: 3.67/4.0
 - Third Prize for the 2023-2024 & 2022-2023 academic year Fudan University Outstanding Student Scholarship
 
 **Exchange in University of California**, Davis, Davis CA, US | Sep 2024 – Dec 2024
-•	Cumulative GPA: 4.0/4.0
+- Cumulative GPA: 4.0/4.0
 
 ## COMPUTER SKILLS
 Programming Languages: C / C++ / Python / R /Bash
