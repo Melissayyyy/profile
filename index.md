@@ -10,9 +10,7 @@
   <img src="photo.jpg" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
 </div>
 
-<br>
 
----
 
 <br>
 ## EDUCATION  
@@ -25,9 +23,7 @@
 **Sep 2024 – Dec 2024**  
 - **Cumulative GPA:** 4.0/4.0  
 
-<br>
 
----
 
 <br>
 ## COMPUTER SKILLS  
@@ -37,9 +33,7 @@
 - **Operating Systems:** Linux-based project development  
 - **Hardware Design:** Vivado (hardware logic design and simulation verification)  
 
-<br>
 
----
 
 <br>
 ## PROJECTS AND LABORATORY EXPERIENCE  
@@ -62,9 +56,7 @@
 - Designed and built an interactive website interface.  
 - Worked on data extraction from open databases and used RAG technology for customized database queries.  
 
-<br>
 
----
 
 <br>
 ## INTERNSHIP  
@@ -75,9 +67,7 @@
 - Analyzed test results, identified issues, and provided insights for optimization.  
 - Developed a web-based real-time dashboard to display testing metrics and reports, enabling data-driven decision-making.  
 
-<br>
 
----
 
 <br>
 ## LEADERSHIP EXPERIENCE AND VOLUNTEER SERVICES  
