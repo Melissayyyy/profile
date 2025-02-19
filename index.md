@@ -1,3 +1,4 @@
+# 
 
 <img src="photo.jpg" align="right" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
 Location: Shanghai, China  
@@ -31,7 +32,7 @@ Shanghai, China | Apr 2024 – Present
 
 ## THINKDRIVE Autonomous Driving and Digital Twin System (Entrepreneurship Training Project)  
 *Web Front-end Developer*  
-Shanghai, China |Apr 2024 – Present  
+Shanghai, China | Apr 2024 – Present  
 - Developed the web interface for the digital twin system, designing intuitive and responsive UIs.  
 - Implemented front-end data processing logic to ensure seamless integration and presentation.  
 - Assisted in building a simulation training platform for autonomous driving AI model improvement.  
@@ -50,7 +51,7 @@ Shanghai, China | Jun 2024 – Aug 2024
 # INTERNSHIP  
 
 ## Transwarp  
-*Software Testing & Development Intern*
+*Software Testing & Development Intern*  
 Shanghai, China | Dec 2024 – Present  
 - Designed testing strategies for automated testing in various simulation settings.  
 - Analyzed test results, identified issues, and provided insights for optimization.  
