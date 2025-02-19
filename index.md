@@ -10,6 +10,10 @@
   <img src="photo.jpg" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
 </div>
 
+Location: Shanghai, China  
+Email: 22307130511@m.fudan.edu.cn  
+My research interests include: Natural Language Processing, Large Language Models  
+<img src="photo.jpg" alt="Personal Image" style="width: 240px; height: 300px; object-fit: cover;" />
 
 
 <br>
