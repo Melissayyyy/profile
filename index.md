@@ -2,7 +2,7 @@
 **Location:** Shanghai, China  
 **Email:** [22307130511@m.fudan.edu.cn](mailto:22307130511@m.fudan.edu.cn)  
 
-![Personal Image](path/to/your/image.jpg) <!-- Replace with the actual image path -->
+![Personal Image](photo.jpg) <!-- Replace with the actual image path -->
 
 ---
 
